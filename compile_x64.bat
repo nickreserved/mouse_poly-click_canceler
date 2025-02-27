@@ -1,0 +1,1 @@
+"C:\Program Files\mingw64\bin\gcc.exe" -mwindows -O3 -m64 -s -o mouse_poly-click_canceler_x64.exe mouse_poly-click_canceler.c
