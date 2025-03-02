@@ -4,9 +4,7 @@ It handles the right and left mouse buttons only.
 
 When you run the program nothing appears. No window, no system tray icon, no console, nothing. If you want to stop it, kill it from Task Manager.
 
-The source code runs on Windows 95 and later.<br>
-The binaries probably not.<br>
-If there is an interest for binaries for Windows 95, send me an email.
+The program runs on Windows 95 and later.
 
 It works as follows:
 - If a mouse-button-release event comes, then:
